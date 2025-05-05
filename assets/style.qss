@@ -1,0 +1,41 @@
+QWidget {
+    font-family: "Segoe UI", "Ubuntu", sans-serif;
+    font-size: 14px;
+    background-color: #f4f4f4;
+    color: #222;
+}
+
+QListView {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+QTextEdit {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+QLineEdit {
+    border: 1px solid #888;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+QStatusBar {
+    background-color: #e0e0e0;
+    border-top: 1px solid #ccc;
+}
+
+QScrollBar:vertical {
+    background: #eee;
+    width: 12px;
+    margin: 0px;
+}
+
+QScrollBar::handle:vertical {
+    background: #aaa;
+    min-height: 20px;
+    border-radius: 5px;
+}

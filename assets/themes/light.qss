@@ -1,0 +1,24 @@
+QWidget {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: "Segoe UI", "Ubuntu", sans-serif;
+    font-size: 13px;
+}
+
+QLineEdit, QTextEdit {
+    background-color: #f9f9f9;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+QListView {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    selection-background-color: #cceeff;
+}
+
+QStatusBar {
+    background-color: #f0f0f0;
+    border-top: 1px solid #ccc;
+}

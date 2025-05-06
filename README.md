@@ -1,6 +1,6 @@
 # SobNotes 🧠
 
-**Local desktop app for generating technical notes with GigaChat**
+**Local desktop app for generating technical notes with GigaChat**  
 Quickly create structured Markdown notes on programming, algorithms, DevOps, interviews, and more.
 
 ---
@@ -39,7 +39,7 @@ GNU License
 
 # SobNotes 🧠
 
-**Локальное приложение для создания технических заметок с помощью GigaChat**
+**Локальное приложение для создания технических заметок с помощью GigaChat**  
 Быстро генерируй структурированные заметки в Markdown по программированию, алгоритмам, DevOps и другим темам.
 
 ---
